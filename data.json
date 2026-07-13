@@ -1,0 +1,1472 @@
+[
+  {
+    "dong": "관교동",
+    "baseDate": "2025.10",
+    "totalSales": 2145.5,
+    "stores": 1782,
+    "floatingPopulation": 81998,
+    "leadingIndustry": "소매",
+    "leadingShare": 76.8,
+    "quadrant": "Q1. 핵심 상권(STAR)",
+    "salesChange": null,
+    "salesChangeDetail": "",
+    "populationChange": null,
+    "populationChangeDetail": "",
+    "description": "매출·유동인구 모두 중앙값 이상으로 상권 파급력이 크고, 소매업 중심 상권으로 차별화 전략이 유효",
+    "industries": [
+      {
+        "category": "합계",
+        "sales": 2145.5,
+        "salesShare": 100.0,
+        "stores": 1782,
+        "storeShare": 100.0
+      },
+      {
+        "category": "서비스",
+        "sales": 433.2,
+        "salesShare": 20.2,
+        "stores": 1013,
+        "storeShare": 56.8
+      },
+      {
+        "category": "소매",
+        "sales": 1647.6,
+        "salesShare": 76.8,
+        "stores": 381,
+        "storeShare": 21.4
+      },
+      {
+        "category": "음식",
+        "sales": 37.1,
+        "salesShare": 1.7,
+        "stores": 171,
+        "storeShare": 9.6
+      },
+      {
+        "category": "숙박",
+        "sales": 27.6,
+        "salesShare": 1.3,
+        "stores": 217,
+        "storeShare": 12.2
+      }
+    ],
+    "charts": [
+      {
+        "title": "총 추정매출",
+        "src": "assets/charts/image1.PNG"
+      },
+      {
+        "title": "일평균 유동인구",
+        "src": "assets/charts/image2.PNG"
+      },
+      {
+        "title": "업소수 추이",
+        "src": "assets/charts/image3.PNG"
+      },
+      {
+        "title": "업종별 매출비중",
+        "src": "assets/charts/image4.PNG"
+      }
+    ]
+  },
+  {
+    "dong": "도화1동",
+    "baseDate": "2025.10",
+    "totalSales": 238.9,
+    "stores": 1079,
+    "floatingPopulation": 56418,
+    "leadingIndustry": "서비스",
+    "leadingShare": 55.1,
+    "quadrant": "Q4. 관리상권(DOGS)",
+    "salesChange": null,
+    "salesChangeDetail": "",
+    "populationChange": null,
+    "populationChangeDetail": "",
+    "description": "매출·유동인구 모두 평균 이하로 수요 기반이 제한적인 상권이며, 생활밀착 업종 강화와 핵심 점포 집중 운영 필요",
+    "industries": [
+      {
+        "category": "합계",
+        "sales": 238.8,
+        "salesShare": 100.0,
+        "stores": 1079,
+        "storeShare": 100.0
+      },
+      {
+        "category": "서비스",
+        "sales": 131.6,
+        "salesShare": 55.1,
+        "stores": 564,
+        "storeShare": 52.3
+      },
+      {
+        "category": "소매",
+        "sales": 65.1,
+        "salesShare": 27.3,
+        "stores": 267,
+        "storeShare": 24.7
+      },
+      {
+        "category": "음식",
+        "sales": 40.6,
+        "salesShare": 17.0,
+        "stores": 233,
+        "storeShare": 21.6
+      },
+      {
+        "category": "숙박",
+        "sales": 1.5,
+        "salesShare": 0.6,
+        "stores": 15,
+        "storeShare": 1.4
+      }
+    ],
+    "charts": [
+      {
+        "title": "총 추정매출",
+        "src": "assets/charts/image5.PNG"
+      },
+      {
+        "title": "일평균 유동인구",
+        "src": "assets/charts/image6.PNG"
+      },
+      {
+        "title": "업소수 추이",
+        "src": "assets/charts/image7.PNG"
+      },
+      {
+        "title": "업종별 매출비중",
+        "src": "assets/charts/image8.PNG"
+      }
+    ]
+  },
+  {
+    "dong": "도화2·3동",
+    "baseDate": "2025.10",
+    "totalSales": 599.9,
+    "stores": 1677,
+    "floatingPopulation": 126409,
+    "leadingIndustry": "서비스",
+    "leadingShare": 66.2,
+    "quadrant": "Q1. 핵심상권(STAR)",
+    "salesChange": null,
+    "salesChangeDetail": "",
+    "populationChange": null,
+    "populationChangeDetail": "",
+    "description": "매출·유동인구 모두 중앙값 이상으로 상권 파급력이 크며, 서비스업 중심 구조로 확장 전략이 유효",
+    "industries": [
+      {
+        "category": "합계",
+        "sales": 599.8,
+        "salesShare": 100.0,
+        "stores": 1677,
+        "storeShare": 100.0
+      },
+      {
+        "category": "서비스",
+        "sales": 396.9,
+        "salesShare": 66.2,
+        "stores": 979,
+        "storeShare": 58.4
+      },
+      {
+        "category": "소매",
+        "sales": 123.1,
+        "salesShare": 20.5,
+        "stores": 300,
+        "storeShare": 17.9
+      },
+      {
+        "category": "음식",
+        "sales": 79.5,
+        "salesShare": 13.3,
+        "stores": 394,
+        "storeShare": 23.5
+      },
+      {
+        "category": "숙박",
+        "sales": 0.3,
+        "salesShare": 0.0,
+        "stores": 4,
+        "storeShare": 0.2
+      }
+    ],
+    "charts": [
+      {
+        "title": "총 추정매출",
+        "src": "assets/charts/image9.PNG"
+      },
+      {
+        "title": "일평균 유동인구",
+        "src": "assets/charts/image10.PNG"
+      },
+      {
+        "title": "업소수 추이",
+        "src": "assets/charts/image11.PNG"
+      },
+      {
+        "title": "업종별 매출비중",
+        "src": "assets/charts/image12.PNG"
+      }
+    ]
+  },
+  {
+    "dong": "문학동",
+    "baseDate": "2025.10",
+    "totalSales": 1096.1,
+    "stores": 1874,
+    "floatingPopulation": 67521,
+    "leadingIndustry": "서비스",
+    "leadingShare": 82.4,
+    "quadrant": "Q1. 핵심상권(STAR)",
+    "salesChange": null,
+    "salesChangeDetail": "",
+    "populationChange": null,
+    "populationChangeDetail": "",
+    "description": "매출·유동인구 모두 중앙값 이상으로 상권 파급력이 크며 인프라를 활용한 확장 전략이 유효",
+    "industries": [
+      {
+        "category": "합계",
+        "sales": 1096.1,
+        "salesShare": 100.0,
+        "stores": 1874,
+        "storeShare": 100.0
+      },
+      {
+        "category": "서비스",
+        "sales": 902.7,
+        "salesShare": 82.4,
+        "stores": 1229,
+        "storeShare": 65.6
+      },
+      {
+        "category": "소매",
+        "sales": 112.1,
+        "salesShare": 10.2,
+        "stores": 263,
+        "storeShare": 14.0
+      },
+      {
+        "category": "음식",
+        "sales": 75.9,
+        "salesShare": 6.9,
+        "stores": 285,
+        "storeShare": 15.2
+      },
+      {
+        "category": "숙박",
+        "sales": 5.4,
+        "salesShare": 0.5,
+        "stores": 97,
+        "storeShare": 5.2
+      }
+    ],
+    "charts": [
+      {
+        "title": "총 추정매출",
+        "src": "assets/charts/image13.PNG"
+      },
+      {
+        "title": "일평균 유동인구",
+        "src": "assets/charts/image14.PNG"
+      },
+      {
+        "title": "업소수 추이",
+        "src": "assets/charts/image15.PNG"
+      },
+      {
+        "title": "업종별 매출비중",
+        "src": "assets/charts/image16.PNG"
+      }
+    ]
+  },
+  {
+    "dong": "숭의1·3동",
+    "baseDate": "2025.10",
+    "totalSales": 292.9,
+    "stores": 1179,
+    "floatingPopulation": 69032,
+    "leadingIndustry": "서비스",
+    "leadingShare": 51.4,
+    "quadrant": "Q3. 잠재상권(QUESTION MARK)",
+    "salesChange": null,
+    "salesChangeDetail": "",
+    "populationChange": null,
+    "populationChangeDetail": "",
+    "description": "유동인구는 많지만 매출이 평균 이하로, 전환율 개선이 핵심이며 체류 유도 (대표상품·동선정비 등) 로 구매전환 필요",
+    "industries": [
+      {
+        "category": "합계",
+        "sales": 292.8,
+        "salesShare": 100.0,
+        "stores": 1179,
+        "storeShare": 100.0
+      },
+      {
+        "category": "서비스",
+        "sales": 150.6,
+        "salesShare": 51.4,
+        "stores": 605,
+        "storeShare": 51.3
+      },
+      {
+        "category": "소매",
+        "sales": 72.3,
+        "salesShare": 24.7,
+        "stores": 303,
+        "storeShare": 25.7
+      },
+      {
+        "category": "음식",
+        "sales": 69.4,
+        "salesShare": 23.7,
+        "stores": 261,
+        "storeShare": 22.1
+      },
+      {
+        "category": "숙박",
+        "sales": 0.5,
+        "salesShare": 0.2,
+        "stores": 10,
+        "storeShare": 0.8
+      }
+    ],
+    "charts": [
+      {
+        "title": "총 추정매출",
+        "src": "assets/charts/image17.PNG"
+      },
+      {
+        "title": "일평균 유동인구",
+        "src": "assets/charts/image18.PNG"
+      },
+      {
+        "title": "업소수 추이",
+        "src": "assets/charts/image19.PNG"
+      },
+      {
+        "title": "업종별 매출비중",
+        "src": "assets/charts/image20.PNG"
+      }
+    ]
+  },
+  {
+    "dong": "숭의2동",
+    "baseDate": "2025.10",
+    "totalSales": 192.5,
+    "stores": 950,
+    "floatingPopulation": 49762,
+    "leadingIndustry": "소매",
+    "leadingShare": 43.5,
+    "quadrant": "Q4. 관리상권(DOGS)",
+    "salesChange": null,
+    "salesChangeDetail": "",
+    "populationChange": null,
+    "populationChangeDetail": "",
+    "description": "매출·유동인구 모두 평균 이하로 수요 기반이 제한적인 상권이며, 생활밀착 업종 강화와 핵심 점포 집중 운영 필요",
+    "industries": [
+      {
+        "category": "합계",
+        "sales": 192.5,
+        "salesShare": 100.0,
+        "stores": 950,
+        "storeShare": 100.0
+      },
+      {
+        "category": "서비스",
+        "sales": 81.5,
+        "salesShare": 42.3,
+        "stores": 374,
+        "storeShare": 39.4
+      },
+      {
+        "category": "소매",
+        "sales": 83.8,
+        "salesShare": 43.5,
+        "stores": 384,
+        "storeShare": 40.4
+      },
+      {
+        "category": "음식",
+        "sales": 26.7,
+        "salesShare": 13.9,
+        "stores": 185,
+        "storeShare": 19.5
+      },
+      {
+        "category": "숙박",
+        "sales": 0.5,
+        "salesShare": 0.3,
+        "stores": 7,
+        "storeShare": 0.7
+      }
+    ],
+    "charts": [
+      {
+        "title": "총 추정매출",
+        "src": "assets/charts/image21.PNG"
+      },
+      {
+        "title": "일평균 유동인구",
+        "src": "assets/charts/image22.PNG"
+      },
+      {
+        "title": "업소수 추이",
+        "src": "assets/charts/image23.PNG"
+      },
+      {
+        "title": "업종별 매출비중",
+        "src": "assets/charts/image24.PNG"
+      }
+    ]
+  },
+  {
+    "dong": "숭의4동",
+    "baseDate": "2025.10",
+    "totalSales": 754.0,
+    "stores": 1197,
+    "floatingPopulation": 20036,
+    "leadingIndustry": "서비스",
+    "leadingShare": 45.8,
+    "quadrant": "Q2. 내실상권(CASH COW)",
+    "salesChange": null,
+    "salesChangeDetail": "",
+    "populationChange": null,
+    "populationChangeDetail": "",
+    "description": "매출은 상위권이나 유동인구는 평균 이하로 목적형·고정수요 기반일 가능성이 높음 - 서비스 중심 (매출비중 45.8%) 강점을 유지하되 집객 확대 (프로모션, 주차공간 확보, 온라인 유입) 로 외연 확장 필요",
+    "industries": [
+      {
+        "category": "합계",
+        "sales": 754.1,
+        "salesShare": 100.0,
+        "stores": 1197,
+        "storeShare": 100.0
+      },
+      {
+        "category": "서비스",
+        "sales": 345.3,
+        "salesShare": 45.8,
+        "stores": 630,
+        "storeShare": 52.6
+      },
+      {
+        "category": "소매",
+        "sales": 328.3,
+        "salesShare": 43.5,
+        "stores": 262,
+        "storeShare": 21.9
+      },
+      {
+        "category": "음식",
+        "sales": 80.1,
+        "salesShare": 10.6,
+        "stores": 300,
+        "storeShare": 25.1
+      },
+      {
+        "category": "숙박",
+        "sales": 0.4,
+        "salesShare": 0.0,
+        "stores": 5,
+        "storeShare": 0.4
+      }
+    ],
+    "charts": [
+      {
+        "title": "총 추정매출",
+        "src": "assets/charts/image25.PNG"
+      },
+      {
+        "title": "일평균 유동인구",
+        "src": "assets/charts/image26.PNG"
+      },
+      {
+        "title": "업소수 추이",
+        "src": "assets/charts/image27.PNG"
+      },
+      {
+        "title": "업종별 매출비중",
+        "src": "assets/charts/image28.PNG"
+      }
+    ]
+  },
+  {
+    "dong": "용현1·4동",
+    "baseDate": "2025.10",
+    "totalSales": 310.1,
+    "stores": 1489,
+    "floatingPopulation": 78994,
+    "leadingIndustry": "음식",
+    "leadingShare": 35.5,
+    "quadrant": "Q3. 잠재상권(QUESTION MARK)",
+    "salesChange": null,
+    "salesChangeDetail": "",
+    "populationChange": null,
+    "populationChangeDetail": "",
+    "description": "유동인구는 많지만 매출이 평균 이하로 전환율 개선이 핵심 - 음식 중심 (매출비중 35.5%) 에서 주변 상권을 확대하여 체류 유도 (대표상품 개발, 동선 재배치 등) 로 매출 전환 필요",
+    "industries": [
+      {
+        "category": "합계",
+        "sales": 310.1,
+        "salesShare": 100.0,
+        "stores": 1489,
+        "storeShare": 100.0
+      },
+      {
+        "category": "서비스",
+        "sales": 101.0,
+        "salesShare": 32.6,
+        "stores": 617,
+        "storeShare": 41.4
+      },
+      {
+        "category": "소매",
+        "sales": 94.4,
+        "salesShare": 30.4,
+        "stores": 299,
+        "storeShare": 20.1
+      },
+      {
+        "category": "음식",
+        "sales": 110.0,
+        "salesShare": 35.5,
+        "stores": 511,
+        "storeShare": 34.3
+      },
+      {
+        "category": "숙박",
+        "sales": 4.7,
+        "salesShare": 1.5,
+        "stores": 62,
+        "storeShare": 4.2
+      }
+    ],
+    "charts": [
+      {
+        "title": "총 추정매출",
+        "src": "assets/charts/image29.PNG"
+      },
+      {
+        "title": "일평균 유동인구",
+        "src": "assets/charts/image30.PNG"
+      },
+      {
+        "title": "업소수 추이",
+        "src": "assets/charts/image31.PNG"
+      },
+      {
+        "title": "업종별 매출비중",
+        "src": "assets/charts/image32.PNG"
+      }
+    ]
+  },
+  {
+    "dong": "용현2동",
+    "baseDate": "2025.10",
+    "totalSales": 1054.3,
+    "stores": 2026,
+    "floatingPopulation": 59775,
+    "leadingIndustry": "서비스",
+    "leadingShare": 61.4,
+    "quadrant": "Q1. 핵심상권(STAR)",
+    "salesChange": null,
+    "salesChangeDetail": "",
+    "populationChange": null,
+    "populationChangeDetail": "",
+    "description": "매출·유동인구 모두 중앙값 이상으로 상권 파급력이 크며 서비스 중심 구조로 확장·차별화 전략이 유효",
+    "industries": [
+      {
+        "category": "합계",
+        "sales": 1054.3,
+        "salesShare": 100.0,
+        "stores": 2026,
+        "storeShare": 100.0
+      },
+      {
+        "category": "서비스",
+        "sales": 647.7,
+        "salesShare": 61.4,
+        "stores": 1356,
+        "storeShare": 66.9
+      },
+      {
+        "category": "소매",
+        "sales": 347.3,
+        "salesShare": 32.9,
+        "stores": 303,
+        "storeShare": 15.0
+      },
+      {
+        "category": "음식",
+        "sales": 53.3,
+        "salesShare": 5.1,
+        "stores": 264,
+        "storeShare": 13.0
+      },
+      {
+        "category": "숙박",
+        "sales": 6.0,
+        "salesShare": 0.6,
+        "stores": 103,
+        "storeShare": 5.1
+      }
+    ],
+    "charts": [
+      {
+        "title": "총 추정매출",
+        "src": "assets/charts/image33.PNG"
+      },
+      {
+        "title": "일평균 유동인구",
+        "src": "assets/charts/image34.PNG"
+      },
+      {
+        "title": "업소수 추이",
+        "src": "assets/charts/image35.PNG"
+      },
+      {
+        "title": "업종별 매출비중",
+        "src": "assets/charts/image36.PNG"
+      }
+    ]
+  },
+  {
+    "dong": "용현3동",
+    "baseDate": "2025.10",
+    "totalSales": 758.7,
+    "stores": 2219,
+    "floatingPopulation": 36702,
+    "leadingIndustry": "서비스",
+    "leadingShare": 87.7,
+    "quadrant": "Q2. 내실상권(CASH COW)",
+    "salesChange": null,
+    "salesChangeDetail": "",
+    "populationChange": null,
+    "populationChangeDetail": "",
+    "description": "매출은 상위권이나 유동은 평균 이하로 목적형· 고정수요 기반일 가능성이 높음 - 서비스 중심 (매출비중 87.7%) 강점을 유지하되 집객 확대 (프로모션, 주차공간 확보, 온라인 유입) 로 외연 확장 필요",
+    "industries": [
+      {
+        "category": "합계",
+        "sales": 758.7,
+        "salesShare": 100.0,
+        "stores": 2219,
+        "storeShare": 100.0
+      },
+      {
+        "category": "서비스",
+        "sales": 665.5,
+        "salesShare": 87.7,
+        "stores": 1633,
+        "storeShare": 73.6
+      },
+      {
+        "category": "소매",
+        "sales": 50.3,
+        "salesShare": 6.6,
+        "stores": 307,
+        "storeShare": 13.8
+      },
+      {
+        "category": "음식",
+        "sales": 36.7,
+        "salesShare": 4.8,
+        "stores": 177,
+        "storeShare": 8.0
+      },
+      {
+        "category": "숙박",
+        "sales": 6.2,
+        "salesShare": 0.8,
+        "stores": 102,
+        "storeShare": 4.6
+      }
+    ],
+    "charts": [
+      {
+        "title": "총 추정매출",
+        "src": "assets/charts/image37.PNG"
+      },
+      {
+        "title": "일평균 유동인구",
+        "src": "assets/charts/image38.PNG"
+      },
+      {
+        "title": "업소수 추이",
+        "src": "assets/charts/image39.PNG"
+      },
+      {
+        "title": "업종별 매출비중",
+        "src": "assets/charts/image40.PNG"
+      }
+    ]
+  },
+  {
+    "dong": "용현5동",
+    "baseDate": "2025.10",
+    "totalSales": 867.4,
+    "stores": 2171,
+    "floatingPopulation": 178709,
+    "leadingIndustry": "서비스",
+    "leadingShare": 43.2,
+    "quadrant": "Q1. 핵심상권(STAR)",
+    "salesChange": null,
+    "salesChangeDetail": "",
+    "populationChange": null,
+    "populationChangeDetail": "",
+    "description": "매출·유동인구 모두 중앙값 이상으로 상권 파급력이 크며 서비스 중심 상권으로 확장 전략이 유효",
+    "industries": [
+      {
+        "category": "합계",
+        "sales": 867.4,
+        "salesShare": 100.0,
+        "stores": 2171,
+        "storeShare": 100.0
+      },
+      {
+        "category": "서비스",
+        "sales": 375.1,
+        "salesShare": 43.2,
+        "stores": 1104,
+        "storeShare": 50.9
+      },
+      {
+        "category": "소매",
+        "sales": 165.1,
+        "salesShare": 19.0,
+        "stores": 425,
+        "storeShare": 19.6
+      },
+      {
+        "category": "음식",
+        "sales": 131.3,
+        "salesShare": 15.1,
+        "stores": 614,
+        "storeShare": 28.3
+      },
+      {
+        "category": "숙박",
+        "sales": 195.9,
+        "salesShare": 22.6,
+        "stores": 28,
+        "storeShare": 1.3
+      }
+    ],
+    "charts": [
+      {
+        "title": "총 추정매출",
+        "src": "assets/charts/image41.PNG"
+      },
+      {
+        "title": "일평균 유동인구",
+        "src": "assets/charts/image42.PNG"
+      },
+      {
+        "title": "업소수 추이",
+        "src": "assets/charts/image43.PNG"
+      },
+      {
+        "title": "업종별 매출비중",
+        "src": "assets/charts/image44.PNG"
+      }
+    ]
+  },
+  {
+    "dong": "주안1동",
+    "baseDate": "2025.10",
+    "totalSales": 1314.6,
+    "stores": 2358,
+    "floatingPopulation": 165384,
+    "leadingIndustry": "서비스",
+    "leadingShare": 79.1,
+    "quadrant": "Q1. 핵심상권(STAR)",
+    "salesChange": null,
+    "salesChangeDetail": "",
+    "populationChange": null,
+    "populationChangeDetail": "",
+    "description": "매출·유동인구 모두 중앙값 이상으로 상권 파급력이 크며 서비스 중심 구조로 확장·차별화 전략이 유효",
+    "industries": [
+      {
+        "category": "합계",
+        "sales": 1314.5,
+        "salesShare": 100.0,
+        "stores": 2358,
+        "storeShare": 100.0
+      },
+      {
+        "category": "서비스",
+        "sales": 1040.0,
+        "salesShare": 79.1,
+        "stores": 948,
+        "storeShare": 40.2
+      },
+      {
+        "category": "소매",
+        "sales": 131.2,
+        "salesShare": 10.0,
+        "stores": 719,
+        "storeShare": 30.5
+      },
+      {
+        "category": "음식",
+        "sales": 133.4,
+        "salesShare": 10.1,
+        "stores": 583,
+        "storeShare": 24.7
+      },
+      {
+        "category": "숙박",
+        "sales": 9.9,
+        "salesShare": 0.8,
+        "stores": 108,
+        "storeShare": 4.6
+      }
+    ],
+    "charts": [
+      {
+        "title": "총 추정매출",
+        "src": "assets/charts/image45.PNG"
+      },
+      {
+        "title": "일평균 유동인구",
+        "src": "assets/charts/image46.PNG"
+      },
+      {
+        "title": "업소수 추이",
+        "src": "assets/charts/image47.PNG"
+      },
+      {
+        "title": "업종별 매출비중",
+        "src": "assets/charts/image48.PNG"
+      }
+    ]
+  },
+  {
+    "dong": "주안2동",
+    "baseDate": "2025.10",
+    "totalSales": 469.1,
+    "stores": 1264,
+    "floatingPopulation": 36048,
+    "leadingIndustry": "서비스",
+    "leadingShare": 75.5,
+    "quadrant": "Q4. 관리상권(DOGS)",
+    "salesChange": null,
+    "salesChangeDetail": "",
+    "populationChange": null,
+    "populationChangeDetail": "",
+    "description": "매출·유동인구 모두 평균 이하로 수요 기반이 제한적일 수 있으며 생활밀착 업종 강화와 핵심 점포 집중 운영 필요",
+    "industries": [
+      {
+        "category": "합계",
+        "sales": 469.2,
+        "salesShare": 100.0,
+        "stores": 1264,
+        "storeShare": 100.0
+      },
+      {
+        "category": "서비스",
+        "sales": 354.4,
+        "salesShare": 75.5,
+        "stores": 685,
+        "storeShare": 54.2
+      },
+      {
+        "category": "소매",
+        "sales": 80.7,
+        "salesShare": 17.2,
+        "stores": 375,
+        "storeShare": 29.7
+      },
+      {
+        "category": "음식",
+        "sales": 32.8,
+        "salesShare": 7.0,
+        "stores": 196,
+        "storeShare": 15.5
+      },
+      {
+        "category": "숙박",
+        "sales": 1.3,
+        "salesShare": 0.3,
+        "stores": 8,
+        "storeShare": 0.6
+      }
+    ],
+    "charts": [
+      {
+        "title": "총 추정매출",
+        "src": "assets/charts/image49.PNG"
+      },
+      {
+        "title": "일평균 유동인구",
+        "src": "assets/charts/image50.PNG"
+      },
+      {
+        "title": "업소수 추이",
+        "src": "assets/charts/image51.PNG"
+      },
+      {
+        "title": "업종별 매출비중",
+        "src": "assets/charts/image52.PNG"
+      }
+    ]
+  },
+  {
+    "dong": "주안3동",
+    "baseDate": "2025.10",
+    "totalSales": 524.1,
+    "stores": 1695,
+    "floatingPopulation": 16279,
+    "leadingIndustry": "서비스",
+    "leadingShare": 81.1,
+    "quadrant": "Q2. 내실상권(CASH COW)",
+    "salesChange": null,
+    "salesChangeDetail": "",
+    "populationChange": null,
+    "populationChangeDetail": "",
+    "description": "매출은 상위권이나 유동인구는 평균 이하로 목적형·고정수요 기반일 가능성이 높음 - 서비스 중심(매출비중 81.1%) 강점을 유지하되 집객 확대 (프로모션 확대, 동선 개편, 주차공간 확보, 온라인 유입) 로 외연 확장 필요",
+    "industries": [
+      {
+        "category": "합계",
+        "sales": 524.1,
+        "salesShare": 100.0,
+        "stores": 1695,
+        "storeShare": 100.0
+      },
+      {
+        "category": "서비스",
+        "sales": 425.0,
+        "salesShare": 81.1,
+        "stores": 1198,
+        "storeShare": 70.7
+      },
+      {
+        "category": "소매",
+        "sales": 72.4,
+        "salesShare": 13.8,
+        "stores": 268,
+        "storeShare": 15.8
+      },
+      {
+        "category": "음식",
+        "sales": 21.3,
+        "salesShare": 4.1,
+        "stores": 132,
+        "storeShare": 7.8
+      },
+      {
+        "category": "숙박",
+        "sales": 5.4,
+        "salesShare": 1.0,
+        "stores": 97,
+        "storeShare": 5.7
+      }
+    ],
+    "charts": [
+      {
+        "title": "총 추정매출",
+        "src": "assets/charts/image53.PNG"
+      },
+      {
+        "title": "일평균 유동인구",
+        "src": "assets/charts/image54.PNG"
+      },
+      {
+        "title": "업소수 추이",
+        "src": "assets/charts/image55.PNG"
+      },
+      {
+        "title": "업종별 매출비중",
+        "src": "assets/charts/image56.PNG"
+      }
+    ]
+  },
+  {
+    "dong": "주안4동",
+    "baseDate": "2025.10",
+    "totalSales": 290.6,
+    "stores": 1224,
+    "floatingPopulation": 50237,
+    "leadingIndustry": "서비스",
+    "leadingShare": 52.9,
+    "quadrant": "Q4. 관리상권(DOGS)",
+    "salesChange": null,
+    "salesChangeDetail": "",
+    "populationChange": null,
+    "populationChangeDetail": "",
+    "description": "매출·유동인구 모두 평균 이하로 수요 기반이 제한적일 수 있으며 생활밀착 업종 강화와 핵심 점포 집중 운영 필요",
+    "industries": [
+      {
+        "category": "합계",
+        "sales": 290.6,
+        "salesShare": 100.0,
+        "stores": 1224,
+        "storeShare": 100.0
+      },
+      {
+        "category": "서비스",
+        "sales": 153.7,
+        "salesShare": 52.9,
+        "stores": 581,
+        "storeShare": 47.5
+      },
+      {
+        "category": "소매",
+        "sales": 75.3,
+        "salesShare": 25.9,
+        "stores": 249,
+        "storeShare": 20.3
+      },
+      {
+        "category": "음식",
+        "sales": 55.5,
+        "salesShare": 19.1,
+        "stores": 290,
+        "storeShare": 23.7
+      },
+      {
+        "category": "숙박",
+        "sales": 6.1,
+        "salesShare": 2.1,
+        "stores": 104,
+        "storeShare": 8.5
+      }
+    ],
+    "charts": [
+      {
+        "title": "총 추정매출",
+        "src": "assets/charts/image57.PNG"
+      },
+      {
+        "title": "일평균 유동인구",
+        "src": "assets/charts/image58.PNG"
+      },
+      {
+        "title": "업소수 추이",
+        "src": "assets/charts/image59.PNG"
+      },
+      {
+        "title": "업종별 매출비중",
+        "src": "assets/charts/image60.PNG"
+      }
+    ]
+  },
+  {
+    "dong": "주안5동",
+    "baseDate": "2025.10",
+    "totalSales": 531.7,
+    "stores": 1149,
+    "floatingPopulation": 56820,
+    "leadingIndustry": "서비스",
+    "leadingShare": 69.1,
+    "quadrant": "Q2. 내실상권(CASH COW)",
+    "salesChange": null,
+    "salesChangeDetail": "",
+    "populationChange": null,
+    "populationChangeDetail": "",
+    "description": "매출은 상위권이나 유동인구는 평균 이하로 목적형·고정수요 기반일 가능성이 높음 - 서비스 중심 강점을 유지하되 집객 확대 (프로모션 확대, 동선 개편, 주차공간 확보, 온라인 유입) 로 외연 확장 필요",
+    "industries": [
+      {
+        "category": "합계",
+        "sales": 531.7,
+        "salesShare": 100.0,
+        "stores": 1149,
+        "storeShare": 100.0
+      },
+      {
+        "category": "서비스",
+        "sales": 367.4,
+        "salesShare": 69.1,
+        "stores": 634,
+        "storeShare": 55.2
+      },
+      {
+        "category": "소매",
+        "sales": 112.0,
+        "salesShare": 21.1,
+        "stores": 241,
+        "storeShare": 21.0
+      },
+      {
+        "category": "음식",
+        "sales": 51.8,
+        "salesShare": 9.7,
+        "stores": 268,
+        "storeShare": 23.3
+      },
+      {
+        "category": "숙박",
+        "sales": 0.5,
+        "salesShare": 0.1,
+        "stores": 6,
+        "storeShare": 0.5
+      }
+    ],
+    "charts": [
+      {
+        "title": "총 추정매출",
+        "src": "assets/charts/image61.PNG"
+      },
+      {
+        "title": "일평균 유동인구",
+        "src": "assets/charts/image62.PNG"
+      },
+      {
+        "title": "업소수 추이",
+        "src": "assets/charts/image63.PNG"
+      },
+      {
+        "title": "업종별 매출비중",
+        "src": "assets/charts/image64.PNG"
+      }
+    ]
+  },
+  {
+    "dong": "주안6동",
+    "baseDate": "2025.10",
+    "totalSales": 476.1,
+    "stores": 1720,
+    "floatingPopulation": 67058,
+    "leadingIndustry": "서비스",
+    "leadingShare": 56.7,
+    "quadrant": "Q3. 잠재상권(QUESTION MARK)",
+    "salesChange": null,
+    "salesChangeDetail": "",
+    "populationChange": null,
+    "populationChangeDetail": "",
+    "description": "유동인구는 많지만 매출이 평균 이하로, 전환율 개선이 핵심이며 체류 유도 (대표상품·동선정비 등) 로 구매전환 필요",
+    "industries": [
+      {
+        "category": "합계",
+        "sales": 476.1,
+        "salesShare": 100.0,
+        "stores": 1720,
+        "storeShare": 100.0
+      },
+      {
+        "category": "서비스",
+        "sales": 270.0,
+        "salesShare": 56.7,
+        "stores": 768,
+        "storeShare": 44.7
+      },
+      {
+        "category": "소매",
+        "sales": 128.6,
+        "salesShare": 27.0,
+        "stores": 520,
+        "storeShare": 30.2
+      },
+      {
+        "category": "음식",
+        "sales": 74.8,
+        "salesShare": 15.7,
+        "stores": 399,
+        "storeShare": 23.2
+      },
+      {
+        "category": "숙박",
+        "sales": 2.7,
+        "salesShare": 0.6,
+        "stores": 33,
+        "storeShare": 1.9
+      }
+    ],
+    "charts": [
+      {
+        "title": "총 추정매출",
+        "src": "assets/charts/image65.PNG"
+      },
+      {
+        "title": "일평균 유동인구",
+        "src": "assets/charts/image66.PNG"
+      },
+      {
+        "title": "업소수 추이",
+        "src": "assets/charts/image67.PNG"
+      },
+      {
+        "title": "업종별 매출비중",
+        "src": "assets/charts/image68.PNG"
+      }
+    ]
+  },
+  {
+    "dong": "주안7동",
+    "baseDate": "2025.10",
+    "totalSales": 1140.0,
+    "stores": 2503,
+    "floatingPopulation": 47414,
+    "leadingIndustry": "서비스",
+    "leadingShare": 80.8,
+    "quadrant": "Q2. 내실상권(CASH COW)",
+    "salesChange": null,
+    "salesChangeDetail": "",
+    "populationChange": null,
+    "populationChangeDetail": "",
+    "description": "매출은 상위권이나 유동인구는 평균 이하로 목적형·고정수요 기반일 가능성이 높음 - 서비스 중심 (매출비중 80.8%) 강점을 유지하되 집객 확대 (프로모션, 주차공간 확보, 온라인 유입) 로 외연 확장 필요",
+    "industries": [
+      {
+        "category": "합계",
+        "sales": 1140.0,
+        "salesShare": 100.0,
+        "stores": 2503,
+        "storeShare": 100.0
+      },
+      {
+        "category": "서비스",
+        "sales": 921.6,
+        "salesShare": 80.8,
+        "stores": 1283,
+        "storeShare": 51.3
+      },
+      {
+        "category": "소매",
+        "sales": 121.1,
+        "salesShare": 10.6,
+        "stores": 531,
+        "storeShare": 21.2
+      },
+      {
+        "category": "음식",
+        "sales": 64.5,
+        "salesShare": 5.7,
+        "stores": 377,
+        "storeShare": 15.1
+      },
+      {
+        "category": "숙박",
+        "sales": 32.8,
+        "salesShare": 2.9,
+        "stores": 312,
+        "storeShare": 12.5
+      }
+    ],
+    "charts": [
+      {
+        "title": "총 추정매출",
+        "src": "assets/charts/image69.PNG"
+      },
+      {
+        "title": "일평균 유동인구",
+        "src": "assets/charts/image70.PNG"
+      },
+      {
+        "title": "업소수 추이",
+        "src": "assets/charts/image71.PNG"
+      },
+      {
+        "title": "업종별 매출비중",
+        "src": "assets/charts/image72.PNG"
+      }
+    ]
+  },
+  {
+    "dong": "주안8동",
+    "baseDate": "2025.10",
+    "totalSales": 311.4,
+    "stores": 1250,
+    "floatingPopulation": 41398,
+    "leadingIndustry": "서비스",
+    "leadingShare": 49.9,
+    "quadrant": "Q4. 관리상권(DOGS)",
+    "salesChange": null,
+    "salesChangeDetail": "",
+    "populationChange": null,
+    "populationChangeDetail": "",
+    "description": "매출·유동인구 모두 평균 이하로 수요 기반이 제한적인 상권이며, 생활밀착 업종 강화와 핵심 점포 집중 운영 필요",
+    "industries": [
+      {
+        "category": "합계",
+        "sales": 311.4,
+        "salesShare": 100.0,
+        "stores": 1250,
+        "storeShare": 100.0
+      },
+      {
+        "category": "서비스",
+        "sales": 155.4,
+        "salesShare": 49.9,
+        "stores": 493,
+        "storeShare": 39.4
+      },
+      {
+        "category": "소매",
+        "sales": 76.5,
+        "salesShare": 24.6,
+        "stores": 203,
+        "storeShare": 16.2
+      },
+      {
+        "category": "음식",
+        "sales": 46.7,
+        "salesShare": 15.0,
+        "stores": 242,
+        "storeShare": 19.4
+      },
+      {
+        "category": "숙박",
+        "sales": 32.8,
+        "salesShare": 10.5,
+        "stores": 312,
+        "storeShare": 25.0
+      }
+    ],
+    "charts": [
+      {
+        "title": "총 추정매출",
+        "src": "assets/charts/image73.PNG"
+      },
+      {
+        "title": "일평균 유동인구",
+        "src": "assets/charts/image74.PNG"
+      },
+      {
+        "title": "업소수 추이",
+        "src": "assets/charts/image75.PNG"
+      },
+      {
+        "title": "업종별 매출비중",
+        "src": "assets/charts/image76.PNG"
+      }
+    ]
+  },
+  {
+    "dong": "학익1동",
+    "baseDate": "2025.10",
+    "totalSales": 411.5,
+    "stores": 1756,
+    "floatingPopulation": 192636,
+    "leadingIndustry": "서비스",
+    "leadingShare": 40.4,
+    "quadrant": "Q3. 잠재상권(QUESTION MARK)",
+    "salesChange": null,
+    "salesChangeDetail": "",
+    "populationChange": null,
+    "populationChangeDetail": "",
+    "description": "유동인구는 많지만 매출이 평균 이하로, 전환율 개선이 핵심이며 체류 유도 (대표상품·동선정비 등) 로 구매전환 필요",
+    "industries": [
+      {
+        "category": "합계",
+        "sales": 411.4,
+        "salesShare": 100.0,
+        "stores": 1756,
+        "storeShare": 100.0
+      },
+      {
+        "category": "서비스",
+        "sales": 166.1,
+        "salesShare": 40.4,
+        "stores": 857,
+        "storeShare": 48.8
+      },
+      {
+        "category": "소매",
+        "sales": 149.3,
+        "salesShare": 36.3,
+        "stores": 315,
+        "storeShare": 17.9
+      },
+      {
+        "category": "음식",
+        "sales": 63.2,
+        "salesShare": 15.4,
+        "stores": 272,
+        "storeShare": 15.5
+      },
+      {
+        "category": "숙박",
+        "sales": 32.8,
+        "salesShare": 8.0,
+        "stores": 312,
+        "storeShare": 17.8
+      }
+    ],
+    "charts": [
+      {
+        "title": "총 추정매출",
+        "src": "assets/charts/image77.PNG"
+      },
+      {
+        "title": "일평균 유동인구",
+        "src": "assets/charts/image78.PNG"
+      },
+      {
+        "title": "업소수 추이",
+        "src": "assets/charts/image79.PNG"
+      },
+      {
+        "title": "업종별 매출비중",
+        "src": "assets/charts/image80.PNG"
+      }
+    ]
+  },
+  {
+    "dong": "학익2동",
+    "baseDate": "2025.10",
+    "totalSales": 363.5,
+    "stores": 1671,
+    "floatingPopulation": 79480,
+    "leadingIndustry": "서비스",
+    "leadingShare": 62.9,
+    "quadrant": "Q3. 잠재상권(QUESTION MARK)",
+    "salesChange": null,
+    "salesChangeDetail": "",
+    "populationChange": null,
+    "populationChangeDetail": "",
+    "description": "유동인구는 많지만 매출이 평균 이하로, 전환율 개선이 핵심이며 체류 유도 (대표상품·동선정비 등) 로 구매전환 필요",
+    "industries": [
+      {
+        "category": "합계",
+        "sales": 363.5,
+        "salesShare": 100.0,
+        "stores": 1671,
+        "storeShare": 100.0
+      },
+      {
+        "category": "서비스",
+        "sales": 228.7,
+        "salesShare": 62.9,
+        "stores": 777,
+        "storeShare": 46.5
+      },
+      {
+        "category": "소매",
+        "sales": 72.4,
+        "salesShare": 19.9,
+        "stores": 486,
+        "storeShare": 29.1
+      },
+      {
+        "category": "음식",
+        "sales": 34.7,
+        "salesShare": 9.6,
+        "stores": 190,
+        "storeShare": 11.4
+      },
+      {
+        "category": "숙박",
+        "sales": 27.7,
+        "salesShare": 7.6,
+        "stores": 218,
+        "storeShare": 13.0
+      }
+    ],
+    "charts": [
+      {
+        "title": "총 추정매출",
+        "src": "assets/charts/image81.PNG"
+      },
+      {
+        "title": "일평균 유동인구",
+        "src": "assets/charts/image82.PNG"
+      },
+      {
+        "title": "업소수 추이",
+        "src": "assets/charts/image83.PNG"
+      },
+      {
+        "title": "업종별 매출비중",
+        "src": "assets/charts/image84.PNG"
+      }
+    ]
+  }
+]
