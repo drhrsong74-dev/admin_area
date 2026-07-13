@@ -4,25 +4,15 @@
 <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>미추홀구 행정동별 상권분석</title>
 <link rel="stylesheet" href="style.css">
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.7/dist/chart.umd.min.js"></script>
 </head>
 <body>
 <header class="hero"><div class="wrap"><p class="eyebrow">빅데이터 기반 상권분석</p><h1>미추홀구 행정동별 상권분석</h1><p>행정동을 선택하면 2025년 10월 기준 분석 결과가 표시됩니다.</p></div></header>
 <main class="wrap">
 <section class="selector"><label for="dongSelect">행정동 선택</label><select id="dongSelect"></select><span id="baseDate"></span></section>
 <section class="titleRow"><div><p class="sectionNo" id="sectionNo"></p><h2 id="dongTitle"></h2></div><span class="badge" id="quadrant"></span></section>
-<section class="kpis">
- <article><span>총 추정매출</span><strong id="totalSales"></strong><small>억원</small></article>
- <article><span>총 업소수</span><strong id="stores"></strong><small>개</small></article>
- <article><span>일평균 유동인구</span><strong id="floating"></strong><small>명</small></article>
- <article><span>리딩 업종</span><strong id="leading"></strong><small id="leadingShare"></small></article>
-</section>
-<section class="analysisGrid">
- <article class="panel"><h3>상권 구분</h3><p id="summary"></p><div class="change"><div><span>매출 증감</span><strong id="salesChange"></strong><small id="salesDetail"></small></div><div><span>유동인구 증감</span><strong id="popChange"></strong><small id="popDetail"></small></div></div></article>
- <article class="panel accent"><h3>특성 및 변화 방향</h3><p id="description"></p></article>
-</section>
+<section class="kpis"><article><span>총 추정매출</span><strong id="totalSales"></strong><small>억원</small></article><article><span>총 업소수</span><strong id="stores"></strong><small>개</small></article><article><span>일평균 유동인구</span><strong id="floating"></strong><small>명</small></article><article><span>리딩 업종</span><strong id="leading"></strong><small id="leadingShare"></small></article></section>
+<section class="analysisGrid"><article class="panel"><h3>상권 구분</h3><p id="summary"></p><div class="change"><div><span>매출 증감</span><strong id="salesChange"></strong><small id="salesDetail"></small></div><div><span>유동인구 증감</span><strong id="popChange"></strong><small id="popDetail"></small></div></div></article><article class="panel accent"><h3>특성 및 변화 방향</h3><p id="description"></p></article></section>
 <section class="panel"><h3 id="overviewTitle"></h3><div class="tableWrap"><table><thead><tr><th>구분</th><th>총매출(억원)</th><th>매출 비중(%)</th><th>업소수(개)</th><th>업소수 비중(%)</th></tr></thead><tbody id="industryBody"></tbody></table></div></section>
-<section class="charts" id="charts"></section>
-<p class="source">자료: 행정동별 현황 및 미추홀구 동별분석 보고서</p>
-</main>
-<script src="app.js"></script>
-</body></html>
+<section class="charts"><article class="chartCard"><h3>업종별 총매출</h3><div class="chartBox"><canvas id="salesChart"></canvas></div></article><article class="chartCard"><h3>업종별 업소수</h3><div class="chartBox"><canvas id="storeChart"></canvas></div></article><article class="chartCard"><h3>업종별 매출비중</h3><div class="chartBox"><canvas id="salesShareChart"></canvas></div></article><article class="chartCard"><h3>업종별 업소수 비중</h3><div class="chartBox"><canvas id="storeShareChart"></canvas></div></article></section>
+<p class="source">자료: 행정동별 현황 및 미추홀구 동별분석 보고서</p></main><script src="app.js"></script></body></html>
